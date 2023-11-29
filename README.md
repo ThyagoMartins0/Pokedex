@@ -1,12 +1,12 @@
 # Pokedex
+![landscape-1456483171-pokemon2](https://github.com/oficialthyago/Pokedex/assets/58978196/8c5173cd-2818-42f1-8beb-5521a18a4059)
 
 
   > Projeto feito para aprendizado no consumo de APIS  e integração com frontend
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
+O projeto já foi concluido.
 - [x] Consumo da API
 - [x] Frontend 
 - [x] Atualização de codigo
